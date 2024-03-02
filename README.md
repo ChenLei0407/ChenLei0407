@@ -8,6 +8,9 @@
  <h5 align="center">
    <i>:bookmark_tabs: If you don't study today, you'll be rubbish tomorrow :bookmark_tabs:</i>
   </h5>
+<div align=center>
+   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /> 
+</div>
 </br>
 <p align="center">
   <h3> :couple: Hello! Nice to meet you!Welcome to my homepage:two_men_holding_hands:</h3>
@@ -19,7 +22,7 @@
 - I like to do some data analysis. :bar_chart: :chart_with_upwards_trend: :chart_with_downwards_trend:
 - :muscle: Constantly improve yourself.
 - :mailbox_with_no_mail: How to reach me: lei17707050441@163.com
-- Learn more about me ：[CSDN](https://blog.csdn.net/chenlei456?spm=1000.2115.3001.5343)
+- Learn more about me ：[CSDN](https://blog.csdn.net/chenlei456?spm=1000.2115.3001.5343)<a href="https://blog.csdn.net/qq_35578171/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=ChenLei0407&show_icons=true&theme=transparent)
 

@@ -1,5 +1,10 @@
-<center> Hi there, I'm ChenLei </center>
+<div align=center>
+   <h1>Hi there, <font color=blue> I'm ChenLei </font> </h1> 
+</div>
 
+<font color="blue">"蓝色"</font>
+
+<font color="#008000">绿色</font>
 
 <!--
 **ChenLei0407/ChenLei0407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
